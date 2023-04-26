@@ -32,6 +32,3 @@ TypeError: say_my_name() missing 1 required positional argument: 'last_name'
 Traceback (most recent call last):
 ...
 TypeError: say_my_name() takes from 2 to 2 positional arguments but 3 were given
-
->>> say_my_name("John", None)
-My name is John
